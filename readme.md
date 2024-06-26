@@ -3,7 +3,7 @@
 
 My name is Kaique and I am a full-stack developer from São Paulo, Brazil.<br>
 🧑🏻‍🎓 At present, I am studying Systems Analysis and Development at the University of São Paulo City (Unicid).<br>
-I'm currently open for new projects so you can reach me trough [WhatsApp](https://wa.me/5511986210539) or [Email](mailto:kaique.eliasbr729@gmail.com).
+I'm currently open for new projects so you can reach me trough <a href="https://wa.me/5511986210539" target="_blank"> WhatsApp </a> or <a href="mailto:kaique.eliasbr729@gmail.com" target="_blank"> Email </a>.
 
 ### You can also find me here 👇
 
