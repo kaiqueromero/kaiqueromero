@@ -37,20 +37,21 @@ In the front-end
 
 In the back-end:
 
-![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
-![Redis](https://img.shields.io/badge/-Redis-232323?style=flat&labelColor=000000&logo=redis&logoColor=52B0E7)
 ![Java](https://img.shields.io/badge/-Java-232323?style=flat&labelColor=000000&logo=jetbrains&logoColor=F7DF1E)
+![Springboot](https://img.shields.io/badge/Springboot-black?style=flat&logo=spring&logoColor=008000)
+![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
+![Redis](https://img.shields.io/badge/-Redis-232323?style=flat&labelColor=000000&logo=redis&logoColor=52B0E7)
+![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
 
 And in general:
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&labelColor=F05032&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&labelColor=000000&logo=github&logoColor=ffffff)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-232323?style=flat&labelColor=0000000&logo=intellijidea&logoColor=1572B6)
-![VS Code](https://img.shields.io/badge/-VScode-232323?style=flat&labelColor=1572B6&logo=visualstudiocode&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-232323?style=flat&labelColor=1572B6&logo=docker&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/-AWS-232323?style=flat&labelColor=000000&logo=amazonwebservices&logoColor=F7DF1E)
+![VS Code](https://img.shields.io/badge/-VScode-232323?style=flat&labelColor=1572B6&logo=visualstudiocode&logoColor=ffffff)
 
 
 
