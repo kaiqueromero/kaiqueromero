@@ -34,13 +34,10 @@ In the front-end
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-232323?style=flat&labelColor=7952B3&logo=bootstrap&logoColor=ffffff)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-232323?style=flat&labelColor=06B6D4&logo=tailwindcss&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=flat&labelColor=000000&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/-React-232323?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
-![NextJS](https://img.shields.io/badge/-NextJS-232323?style=flat&labelColor=000000&logo=nextdotjs&logoColor=ffffff)
 
 In the back-end:
 
 ![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
-![Sequelize](https://img.shields.io/badge/-Sequelize-232323?style=flat&labelColor=000000&logo=sequelize&logoColor=52B0E7)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
 ![Redis](https://img.shields.io/badge/-Redis-232323?style=flat&labelColor=000000&logo=redis&logoColor=52B0E7)
